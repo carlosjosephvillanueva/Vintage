@@ -8,6 +8,8 @@
 .menu {
 	height: 100px;
 	background-color: #C19A6B; /*blue*/
+	margin: 0 auto;
+	text-align: center;
 }
 .sidebar {
 	height: 300px;
@@ -77,7 +79,7 @@ p {
 }
 
 .avatar	{
-	background-image: url("../images/kar98k.jpeg");
+	background-color: rgba(222,184,135,0.4);
 	float: left;
 	width: 60px;
 	height: 60px;
